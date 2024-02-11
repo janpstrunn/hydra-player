@@ -14,7 +14,7 @@ It uses **Html**, **JavaScript** and the **Zepto.js**.
 
 ## Why?
 
-Because the default method to run audio in the browser doesn't allow to easily play a playlist, and I couldn't anything simple and functional enough.
+Because the default method to run audio in the browser is extremely powerful, but doesn't allow to easily play a playlist and change tracks graphically. Also, I couldn't find anything simple and functional enough that does it by this way.
 
 ## Footage:
 ![Hydra Player](https://github.com/janpstrunn/hydra-player/blob/main/hydra.png)
