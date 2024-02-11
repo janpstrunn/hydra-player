@@ -9,4 +9,4 @@ It also display what music is being played, even in the tab!
 It uses html, javascript and the zepto.js
 
 ## Footage:
-(Hydra Player)[https://github.com/janpstrunn/hydra-player/blob/main/hydra.png]
+![Hydra Player](https://github.com/janpstrunn/hydra-player/blob/main/hydra.png)
