@@ -18,7 +18,7 @@ Because the default method to run audio in the browser is extremely powerful, bu
 
 ## How to use it
 
-Simply open the `hydra-player` file using the browser.
+Just open the `hydra-player` file using the browser, choose your files and enjoy.
 
 ## Footage:
 ![Hydra Player](https://github.com/janpstrunn/hydra-player/blob/main/hydra.png)
